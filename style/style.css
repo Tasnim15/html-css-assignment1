@@ -162,3 +162,34 @@ font-weight: 700;
 padding: 10px 22px;
 text-transform: uppercase;
 }
+.image-function{
+    width: 1320px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0%;
+    position: relative;
+    left: 140px;
+    right: 140px;
+    
+  
+}
+.img2{
+    background-image: url('/resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+ 
+}
+.img2 img{
+    margin-right: 270px;
+}
+.img1{
+   margin: 0%;
+   display: block;
+}
+.rectangle{
+position: absolute;
+
+top: 482px;
+width: 1320px;
+}
