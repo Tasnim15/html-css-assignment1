@@ -88,8 +88,9 @@ line-height: normal;
     
 }
 .black-back{
+    
     margin-left: 126px;
-    /* background: linear-gradient(to right, rgba(0, 0, 0, 0.2)50% , rgba(0, 0, 0, 0)); */
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.2)50% , rgba(0, 0, 0, 0));
 height: 458px;
 }
 .midnight-text{
@@ -124,4 +125,14 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 flex-shrink: 0;
+}
+.black-back > a {
+    color: #FFF;
+
+margin-right: 600px;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
 }
