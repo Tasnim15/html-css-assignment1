@@ -248,8 +248,13 @@ width: 1320px;
 }
 .lady{
     text-align: right;
+  position: relative;
   
-    margin-bottom: 0%;
+}
+.discount-img{
+    position: absolute;
+top: 100px;
+left: 700px;
 }
 .red-border{
     margin-top: 0px;
