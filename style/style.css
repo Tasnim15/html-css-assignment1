@@ -446,6 +446,23 @@ font-style: normal;
 font-weight: 500;
 line-height: 40px; /* 166.667% */
 }
+.address2{
+    display: block;
+    margin-bottom: 0%;
+}
+.address2icon1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+   
+}
+.address2icon2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+}
 .middle-footer{
     text-align: center;
     margin-top: 48px;
